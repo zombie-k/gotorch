@@ -3,9 +3,9 @@ package nn
 import (
 	"math"
 
-	torch "github.com/wangkuiyi/gotorch"
-	F "github.com/wangkuiyi/gotorch/nn/functional"
-	initializer "github.com/wangkuiyi/gotorch/nn/initializer"
+	torch "github.com/zombie-k/gotorch"
+	F "github.com/zombie-k/gotorch/nn/functional"
+	initializer "github.com/zombie-k/gotorch/nn/initializer"
 )
 
 // LinearModule applies a linear transformation with optional bias.

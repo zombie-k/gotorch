@@ -17,7 +17,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/wangkuiyi/gotorch/tool/tgz"
+	"github.com/zombie-k/gotorch/tool/tgz"
 )
 
 func main() {

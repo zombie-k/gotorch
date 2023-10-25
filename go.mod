@@ -1,4 +1,4 @@
-module github.com/wangkuiyi/gotorch
+module github.com/zombie-k/gotorch
 
 go 1.13
 

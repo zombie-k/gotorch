@@ -9,8 +9,8 @@ import (
 	"unsafe"
 
 	"github.com/stretchr/testify/assert"
-	torch "github.com/wangkuiyi/gotorch"
-	"github.com/wangkuiyi/gotorch/nn/initializer"
+	torch "github.com/zombie-k/gotorch"
+	"github.com/zombie-k/gotorch/nn/initializer"
 )
 
 func TestTensorDetach(t *testing.T) {

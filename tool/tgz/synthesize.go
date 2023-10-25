@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/wangkuiyi/gotorch/vision"
+	"github.com/zombie-k/gotorch/vision"
 )
 
 // SynthesizeTarball generates a tarball file.

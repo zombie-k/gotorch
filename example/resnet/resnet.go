@@ -9,12 +9,12 @@ import (
 	"os"
 	"time"
 
-	torch "github.com/wangkuiyi/gotorch"
-	F "github.com/wangkuiyi/gotorch/nn/functional"
-	"github.com/wangkuiyi/gotorch/nn/initializer"
-	"github.com/wangkuiyi/gotorch/vision/imageloader"
-	"github.com/wangkuiyi/gotorch/vision/models"
-	"github.com/wangkuiyi/gotorch/vision/transforms"
+	torch "github.com/zombie-k/gotorch"
+	F "github.com/zombie-k/gotorch/nn/functional"
+	"github.com/zombie-k/gotorch/nn/initializer"
+	"github.com/zombie-k/gotorch/vision/imageloader"
+	"github.com/zombie-k/gotorch/vision/models"
+	"github.com/zombie-k/gotorch/vision/transforms"
 )
 
 const logInterval = 10 // in iterations

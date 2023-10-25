@@ -3,8 +3,8 @@ package gotorch_test
 import (
 	"fmt"
 
-	torch "github.com/wangkuiyi/gotorch"
-	nn "github.com/wangkuiyi/gotorch/nn"
+	torch "github.com/zombie-k/gotorch"
+	nn "github.com/zombie-k/gotorch/nn"
 )
 
 type myNet struct {

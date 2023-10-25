@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/wangkuiyi/gotorch/tool/tgz"
+	"github.com/zombie-k/gotorch/tool/tgz"
 )
 
 func TestTgzSynthesize(t *testing.T) {

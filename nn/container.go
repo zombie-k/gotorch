@@ -3,7 +3,7 @@ package nn
 import (
 	"reflect"
 
-	torch "github.com/wangkuiyi/gotorch"
+	torch "github.com/zombie-k/gotorch"
 )
 
 // SequentialModule is a list of `Module`s that acts as a `Module` itself.

@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	torch "github.com/wangkuiyi/gotorch"
+	torch "github.com/zombie-k/gotorch"
 )
 
 // BatchNorm does batch nomalization for `input`

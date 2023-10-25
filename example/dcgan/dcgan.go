@@ -11,12 +11,12 @@ import (
 	"strings"
 	"time"
 
-	torch "github.com/wangkuiyi/gotorch"
-	nn "github.com/wangkuiyi/gotorch/nn"
-	F "github.com/wangkuiyi/gotorch/nn/functional"
-	"github.com/wangkuiyi/gotorch/nn/initializer"
-	"github.com/wangkuiyi/gotorch/vision/imageloader"
-	"github.com/wangkuiyi/gotorch/vision/transforms"
+	torch "github.com/zombie-k/gotorch"
+	nn "github.com/zombie-k/gotorch/nn"
+	F "github.com/zombie-k/gotorch/nn/functional"
+	"github.com/zombie-k/gotorch/nn/initializer"
+	"github.com/zombie-k/gotorch/vision/imageloader"
+	"github.com/zombie-k/gotorch/vision/transforms"
 )
 
 var data = flag.String("data", "", "path to dataset")

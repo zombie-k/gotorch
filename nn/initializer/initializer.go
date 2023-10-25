@@ -10,7 +10,7 @@ import (
 	"log"
 	"unsafe"
 
-	torch "github.com/wangkuiyi/gotorch"
+	torch "github.com/zombie-k/gotorch"
 )
 
 // ManualSeed set the random seed

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	torch "github.com/wangkuiyi/gotorch"
+	torch "github.com/zombie-k/gotorch"
 	"gocv.io/x/gocv"
 )
 

@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	torch "github.com/wangkuiyi/gotorch"
-	tgz "github.com/wangkuiyi/gotorch/tool/tgz"
-	"github.com/wangkuiyi/gotorch/vision/transforms"
+	torch "github.com/zombie-k/gotorch"
+	tgz "github.com/zombie-k/gotorch/tool/tgz"
+	"github.com/zombie-k/gotorch/vision/transforms"
 )
 
 func synthesizeInvalidImageTgz(fn string) {

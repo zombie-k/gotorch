@@ -3,9 +3,9 @@ package nn
 import (
 	"math"
 
-	torch "github.com/wangkuiyi/gotorch"
-	"github.com/wangkuiyi/gotorch/nn/functional"
-	"github.com/wangkuiyi/gotorch/nn/initializer"
+	torch "github.com/zombie-k/gotorch"
+	"github.com/zombie-k/gotorch/nn/functional"
+	"github.com/zombie-k/gotorch/nn/initializer"
 )
 
 // Conv2dModule applies convolution over a 2D input.
